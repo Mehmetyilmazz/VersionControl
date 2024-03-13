@@ -1,0 +1,12 @@
+/Users/mehmetyilmaz/Desktop/Tests/git/VersionControl/bin/Debug/net7.0/VersionControl.deps.json
+/Users/mehmetyilmaz/Desktop/Tests/git/VersionControl/bin/Debug/net7.0/VersionControl.dll
+/Users/mehmetyilmaz/Desktop/Tests/git/VersionControl/bin/Debug/net7.0/VersionControl.pdb
+/Users/mehmetyilmaz/Desktop/Tests/git/VersionControl/obj/Debug/net7.0/VersionControl.csproj.AssemblyReference.cache
+/Users/mehmetyilmaz/Desktop/Tests/git/VersionControl/obj/Debug/net7.0/VersionControl.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetyilmaz/Desktop/Tests/git/VersionControl/obj/Debug/net7.0/VersionControl.AssemblyInfoInputs.cache
+/Users/mehmetyilmaz/Desktop/Tests/git/VersionControl/obj/Debug/net7.0/VersionControl.AssemblyInfo.cs
+/Users/mehmetyilmaz/Desktop/Tests/git/VersionControl/obj/Debug/net7.0/VersionControl.csproj.CoreCompileInputs.cache
+/Users/mehmetyilmaz/Desktop/Tests/git/VersionControl/obj/Debug/net7.0/VersionControl.dll
+/Users/mehmetyilmaz/Desktop/Tests/git/VersionControl/obj/Debug/net7.0/refint/VersionControl.dll
+/Users/mehmetyilmaz/Desktop/Tests/git/VersionControl/obj/Debug/net7.0/VersionControl.pdb
+/Users/mehmetyilmaz/Desktop/Tests/git/VersionControl/obj/Debug/net7.0/ref/VersionControl.dll

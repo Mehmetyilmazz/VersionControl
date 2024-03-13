@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "/Users/mehmetyilmaz/Desktop/Tests/git/VersionControl/VersionControl.csproj",
-        "projectName": "VersionControl",
+        "projectName": "versionControl",
         "projectPath": "/Users/mehmetyilmaz/Desktop/Tests/git/VersionControl/VersionControl.csproj",
         "packagesPath": "/Users/mehmetyilmaz/.nuget/packages/",
         "outputPath": "/Users/mehmetyilmaz/Desktop/Tests/git/VersionControl/obj/",

@@ -4,6 +4,10 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>versionControl</PackageId>
+<Version>1.0.0</Version>
+<Authors>Mehmet Yilmaz</Authors>
+<Company>Abra Partners Test</Company>
   </PropertyGroup>
 
 </Project>

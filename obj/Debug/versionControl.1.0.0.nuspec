@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>versionControl</id>
+    <version>1.0.0</version>
+    <authors>Mehmet Yilmaz</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/mehmetyilmaz/Desktop/Tests/git/VersionControl/bin/Debug/net7.0/VersionControl.dll" target="lib/net7.0/VersionControl.dll" />
+  </files>
+</package>
